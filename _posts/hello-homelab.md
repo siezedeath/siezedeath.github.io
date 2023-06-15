@@ -1,14 +1,13 @@
 ---
 title: Hello Homelab
-date: 2023-06-10 5:00:00 -500
+date: 2023-06-10 5:00:00 +0800
 categories: [homelab, hardware]
-tags: [servers, dell, hp, supermicro] # TAG Names should be lower case
-
+tags: [servers, dell, hp, supermicro] 
 ---
 
 # Welcome
 
-Hello and Welcome to my site
+Hello and welcome to my site
 ## About Alfy
 
 Daddy
