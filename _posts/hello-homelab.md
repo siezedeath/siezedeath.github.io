@@ -8,9 +8,8 @@ tags: [servers, dell, hp, supermicro] # TAG Names should be lower case
 
 # Welcome
 
-Yurr
-
-## Hardware
+Hello and Welcome to my site
+## About Alfy
 
 Daddy
 
@@ -22,6 +21,3 @@ Daddy
 ```javascript
 console.log('hello world!');
 ```
-
-## Photos
-
