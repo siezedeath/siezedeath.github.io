@@ -20,14 +20,3 @@ With these projects, combined with my passion for trading stock derivatives (mai
 
 Currently, I work at Synergy Prep, a tutoring center, where I have the opportunity to share my knowledge and expertise. I employ diverse approaches to help students tackle different mathematical problems. Before diving into lessons, I engage students by presenting puzzles and brain teasers, which stimulates their critical thinking skills. Witnessing their active participation and collaborative problem-solving efforts makes me happy. I also work at a high frequency trading firm known as Hudson River Trading (HRT for short), and working through financial markets using mathematics and computer science is by far the most gratifying application I have come across thus far.
 ## My Life
-
-Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-matter/) as below at the top of the post:
-
-```yaml
----
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
----
-```
